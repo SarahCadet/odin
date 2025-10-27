@@ -1,0 +1,36 @@
+main {
+    background-color: rgb(189, 153, 105);
+    padding: 50px 60px 70px;
+}
+
+body {
+    background-color: rgb(189, 153, 105);
+}
+
+.class-title {
+    background-color: burlywood;
+    text-align: center;
+    padding: 20px;
+}
+
+.page-content {
+    height: 500px;
+    padding: 20px;
+    max-width: 80%;
+    margin: 20px auto;
+    background-color: burlywood;
+}
+
+.page-content ol {
+    font-size: large;
+}
+
+.page-content ol li span {
+    font-size: small;
+}
+
+footer {
+    height: 100px;
+    background-color: rgb(70, 50, 11);
+    margin: -100px;
+}

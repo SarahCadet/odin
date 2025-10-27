@@ -1,0 +1,18 @@
+p {
+    margin: 10px;
+    padding: 5px;
+
+}
+
+* {
+    background-color: cornsilk;
+}
+
+.recipe-title {
+    text-decoration: underline;
+}
+
+img {
+    float: right;
+    display: block;
+}
