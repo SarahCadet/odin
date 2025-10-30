@@ -1,0 +1,20 @@
+.class {
+    font-size: medium;
+    background-color: rgb(255, 180, 171);
+}
+
+.cooler {
+    font-size: x-large;
+}
+
+#id1 {
+    color: blue;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#id2 {
+    background-color: chartreuse;
+    font-size: larger;
+    font-weight: bolder;
+}
